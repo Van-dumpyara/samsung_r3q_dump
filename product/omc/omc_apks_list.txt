@@ -1,0 +1,2 @@
+/product/app/MDIP-SEAU-SingleSKU-Optus-Vodafone/MDIP-SEAU-SingleSKU-Optus-Vodafone.apk
+/product/priv-app/appcloud_oobe_samsungGlobal-release_V5.0.0.0/appcloud_oobe_samsungGlobal-release_V5.0.0.0.apk

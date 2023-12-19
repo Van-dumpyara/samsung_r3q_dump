@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-A908B_OLN_VNZ_12_0001</version>
+  <model>
+    <name>SM-A908B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0002</customerEdition>
+    <carrierListVersion>120019</carrierListVersion>
+    <cscfeature>yes</cscfeature>
+    <carrierfeature>yes</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>1</carrierCount>
+    <carrier>
+      <mcc>530</mcc>
+      <mnc>01</mnc>
+      <spn>vodafone NZ</spn>
+      <networkName>Vodafone NZ</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

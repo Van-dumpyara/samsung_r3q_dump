@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A908B</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OLN</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A908BOLN</CSCName>
+        <CSCVersion>9EWF1</CSCVersion>
+        <NbCustomer>4</NbCustomer>
+        <CustomerData src="/Customer/TEL/customer.xml" />
+        <CustomerData src="/Customer/OPS/customer.xml" />
+        <CustomerData src="/Customer/XSA/customer.xml" />
+        <CustomerData src="/Customer/VNZ/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>OPS</CustomerCode>
+            <Version>SAOMC_SM-A908B_OLN_OPS_12_0008</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.amazon.mShop.android.shopping" />
+                <package name="au.com.optus.selfservice" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TEL</CustomerCode>
+            <Version>SAOMC_SM-A908B_OLN_TEL_12_0008</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="com.telstra.mobile.android.mytelstra" />
+                <package name="com.telstra.mobile.android.air" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VNZ</CustomerCode>
+            <Version>SAOMC_SM-A908B_OLN_VNZ_12_0001</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="nz.co.vodafone.android.myaccount" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XSA</CustomerCode>
+            <Version>SAOMC_SM-A908B_OLN_XSA_12_0006</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
