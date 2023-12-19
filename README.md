@@ -1,0 +1,14 @@
+# r3qxx-user 12 SP1A.210812.016 A908BXXU9EWG1 release-keys
+- manufacturer: samsung
+- platform: msmnile
+- codename: r3q
+- flavor: r3qxx-user
+- release: 12
+- id: SP1A.210812.016
+- incremental: A908BXXU9EWG1
+- tags: release-keys
+- fingerprint: samsung/r3qxx/r3q:11/RP1A.200720.012/A908BXXU9EWG1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: r3qxx-user-12-SP1A.210812.016-A908BXXU9EWG1-release-keys
+- repo: samsung_r3q_dump
