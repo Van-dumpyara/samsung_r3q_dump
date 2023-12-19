@@ -1,0 +1,7 @@
+<permissions>
+	<privapp-permissions package="com.samsung.android.app.ledbackcover">
+		<permission name="android.permission.INSTALL_PACKAGES" />
+		<permission name="android.permission.WRITE_SECURE_SETTINGS" />
+		<permission name="android.permission.INSTALL_SELF_UPDATES" />
+    	</privapp-permissions>
+</permissions>
